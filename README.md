@@ -1,7 +1,7 @@
 Hi there!
 
 # 💫 About Me:
-🔭 I’m currently working on building a basic social media platform in Java, where users can create profiles, post updates, comment on posts, and follow/unfollow other users. This project combines back-end development with Spring Boot and front-end work using React.<br>👯 I’m looking to collaborate on open-source projects<br>🌱 I’m currently learning full-stack development, focusing on back-end Java with Spring Boot and front-end frameworks like React. I'm also exploring RESTful API best practices to make the platform smooth and efficient.<br>⚡ Fun fact: I love coding along with sports(mainly basketball) and video games.
+🔭 I’m currently working on building a basic social media platform in Java, where users can create profiles, post updates, comment on posts, and follow/unfollow other users. This project combines back-end development with Spring Boot and front-end work using React.<br>👯 I’m looking to collaborate on projects and hackathons<br>🌱 I’m currently learning full-stack development, focusing on back-end Java with Spring Boot and front-end frameworks like React. I'm also exploring RESTful API best practices to make the platform smooth and efficient.<br>⚡ Fun fact: I love coding along with sports(mainly basketball) and video games.
 
 
 ## 🌐 Socials:
