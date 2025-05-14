@@ -4,7 +4,7 @@ Hi there! 👋 I'm Andrew,
 
 # 💫 About Me:
 🌱 I’m currently diving deep into full-stack development, focusing on back-end with Express.js and Spring Boot, and front-end with TypeScript/JavaScript and React.js
-👯 I’m looking to collaborate on projects and hackathons
+<br>👯 I’m looking to collaborate on projects and hackathons</br>
 
 
 ## 🌐 Socials:
