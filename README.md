@@ -3,7 +3,8 @@ Hi there! 👋 I'm Andrew,
 **Aspiring Software Engineer**
 
 # 💫 About Me:
-🌱 I’m currently learning full-stack development, focusing on back-end Java with Spring Boot and front-end technologies like React and other frameworks. <br>👯 I’m looking to collaborate on projects and hackathons<br> 
+🌱 I’m currently diving deep into full-stack development, focusing on back-end with Express.js and Spring Boot, and front-end with TypeScript/JavaScript and React.js
+👯 I’m looking to collaborate on projects and hackathons
 
 
 ## 🌐 Socials:
