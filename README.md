@@ -4,7 +4,7 @@ Hi there! 👋 I'm Andrew,
 
 # 💫 About Me:
 🌱 I’m currently diving deep into full-stack development, focusing on back-end with Express.js (Node.js), Spring Boot (Java), Supabase (PostgreSQL), as well as front-end development with TypeScript/JavaScript, and React.js.
-<br>👯 I’m looking to collaborate on projects and hackathons</br>
+<br>👯 I’m looking to collaborate on projects and hackathons.</br>
 
 
 ## 🌐 Socials:
