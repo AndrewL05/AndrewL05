@@ -4,8 +4,6 @@ Hi there! 👋 I'm Andrew,
 
 🌱 I’m currently diving deep into full-stack development, focusing on back-end with FastAPI/Django, Express.js, Spring Boot, PostgreSQL, as well as front-end development with TypeScript/JavaScript, TailwindCSS, and React.
 
-
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-li-611a34278/) 
 
 # 💻 Tech Stack:
